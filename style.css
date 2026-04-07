@@ -65,7 +65,7 @@ li {
 
 .row {
     width: 100%;
-    max-width: 1300px;
+    max-width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -182,7 +182,7 @@ footer {
     padding: 0 16px;
 
    /* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
-    @media {max-width: 728px} {
+    @media (max-width: 100%) {
         .row {
             flex-direction: column;
         }
@@ -230,7 +230,7 @@ footer {
             }
 
             .footer__logo {
-                max-width: 360px;
+                max-width: 100%;
             }
 
             .footer__link {
