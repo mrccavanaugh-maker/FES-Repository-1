@@ -152,7 +152,7 @@ form {
 
 input, textarea {
     margin-bottom: 24px;
-    font size: 20px;
+    font-size: 20px;
     padding: 6px 12px;
 }
 
@@ -179,10 +179,10 @@ footer {
 }
 
 .footer__link {
-    padding: 0 16px;
+    padding: 0 16px;}
 
    /* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
-    @media (max-width: 100%) {
+    @media (max-width: 100%)
         .row {
             flex-direction: column;
         }
