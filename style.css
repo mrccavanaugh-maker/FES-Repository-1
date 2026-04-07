@@ -27,7 +27,7 @@ header {
 
 
 h1 {
-    font-size: 72px;
+    font-size: 46px;
 }
 
 .subheader {
@@ -79,8 +79,8 @@ li {
 #about,
 #discord,
 #contact,
-#footer {
-    padding: 48px 0;}}
+#footer } {
+    padding: 48px 0;}
 
 /*
 
