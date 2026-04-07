@@ -72,6 +72,10 @@ li {
     margin: 0 auto;
 }
 
+.column { 
+    display: flex;
+    flex-direction: column;
+}
 #about,
 #discord,
 #contact,
