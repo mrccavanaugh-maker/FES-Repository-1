@@ -75,12 +75,12 @@ li {
 .column { 
     display: flex;
     flex-direction: column;
-}
+
 #about,
 #discord,
 #contact,
 #footer {
-    padding: 48px 0;}
+    padding: 48px 0;}}
 
 /*
 
